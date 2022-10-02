@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #06292E;
+    color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+img {
+    display: block;
+}
+
+button {
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+input {
+    outline: none;
+}
